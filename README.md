@@ -31,7 +31,7 @@ dengan menggunakan Android Studio
 </p>
 
 <p align="center">
-    <img src="splashscreen.jpg" alt="Build Status">
+    <img src="splashcreen.jpg" alt="Build Status">
 </p>
 
 <p align="center">
