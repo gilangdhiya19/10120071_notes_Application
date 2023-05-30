@@ -1,7 +1,7 @@
 # 10120071_notes_Application
 
 NIM   : 10120071
-Nama  : Gilang Dhiya
+Nama  : Gilang Dhiya Ulhaq
 Kelas : IF-2
 
 Project Notes Application ini dibuat untuk memenuhi salah satu tugas mata kuliah
